@@ -1,3 +1,5 @@
-Visualisation of the tow-mode state with two-mode Wigner function.
+Visualisation of the two-mode quantum state with two-mode Wigner function.
 
-![alt text](https://github.com/matthewR1993/2d_wigner_function/tree/master/files/wign_fun_tms_z-0.5.png?raw=true)
+![](files/wign_fun_tms_z-0.5.png)
+
+
